@@ -6,4 +6,5 @@ names = {:"Raj" => 3, "Nikki" => 5, "Theo" => 4}
 def key_for_min_value(name_hash)
   smallest_key = nil 
   smallest_value = nil
+  hash.each do | a, b|
 end
